@@ -1,0 +1,12 @@
+.navbar-text{
+    font-weight: 200;
+    margin-top: 10px;
+    transition: all ease-in-out 0.24s;
+}
+.navbar-text:hover{
+    font-weight: bold;
+    transform: scale(1.2);
+}
+.home{
+    font-weight: bold;
+}
